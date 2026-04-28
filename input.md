@@ -339,6 +339,6 @@ que crecen de forma sostenible.
 
 # Gracias
 
-![bg](./img/018.jpg)
-
 Preguntas?
+
+![bg 15%](./img/qr.png)
