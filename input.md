@@ -77,6 +77,8 @@ que influyan su comportamiento.
 
 # 1️⃣ Antes de construir
 
+![bg right:45%](./006.jpg)
+
 ## Lo que creemos del usuario vs la realidad
 
 - Lo que dice
@@ -85,7 +87,7 @@ que influyan su comportamiento.
 
 ---
 
-# Ejemplo real (MELI)
+# Ejemplo real (Vendedores)
 
 ![bg left:45%](./005.jpg)
 
@@ -103,18 +105,29 @@ Pero en la práctica:
 
 # Insight clave
 
+![bg right:45%](./007.jpg)
+
 No diseñamos para lo que el usuario dice.  
 Diseñamos para cómo se comporta.
 
 ---
 
+![bg contain](./tooling-001.png)
+
+---
+
 # 2️⃣ Durante la operación
+
+![bg right:45%](./008.jpg)
+
 
 ## El producto empieza realmente aquí
 
 ---
 
 # El funnel no es un funnel
+
+![bg contain left:45%](./009.png)
 
 No es:
 - Adquisición
@@ -128,9 +141,12 @@ Es:
 
 ---
 
-# Ejemplo real (MELI – Fulfillment)
+# Ejemplo real (Fulfillment)
 
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1; min-width: 0;">
 Problema:
+
 - Sellers no adoptaban fulfillment
 
 No era awareness  
@@ -139,48 +155,62 @@ Era fricción:
 - Costos percibidos  
 - Complejidad operativa  
 - Falta de confianza  
-
+</div>
+<div style="flex: 1; min-width: 0;">
 👉 Solución:
+
 - Reducción de fricción operativa  
 - Incentivos claros  
 - Mejor visibilidad de beneficios  
 
 Resultado:
 - Incremento significativo en adopción
+</div>
+</div>
 
 ---
 
 # Métricas que importan
 
-No solo revenue:
+![bg right:45%](./010.jpg)
 
-- Activación
-- Repetición
-- Frecuencia
-- Retención
-- Calidad del uso
+- Revenue ($$)
+- Activación (Time to Aha!)
+- Repetición (% recompra)
+- Frecuencia (DAU)
+- Retención (Churn)
+- Calidad del uso (NPS)
 
 ---
 
-# Ejemplo real (MELI – Inventory)
-
+# Ejemplo real (Inventario)
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1; min-width: 0;">
 Problema:
+
 - Inventario disponible ≠ inventario útil
 
 Insight:
 - No todo el stock genera ventas
-
+</div>
+<div style="flex: 1; min-width: 0;">
 Acción:
+
 - Optimización de assortment  
 - Incentivos para inventario de alta rotación  
 
 👉 Impacto:
-Mejora en profundidad de oferta  
+
+- Mejora en profundidad de oferta  
 y conversión
+</div>
+</div>
 
 ---
 
 # Mentalidad clave
+
+![bg left:45%](./011.jpg)
 
 ## Continuous Beta
 
@@ -191,41 +221,57 @@ y conversión
 ---
 
 # Ejemplo real (Cross-border)
-
+<div style="display: flex; gap: 20px;">
+<div style="flex: 1; min-width: 0;">
 Al lanzar cross-border:
 
 Suposición:
+
 - Más oferta = más ventas  
 
 Realidad:
+
 - Usuarios no compraban igual  
 - Fricciones en tiempos, confianza, percepción  
-
+</div>
+<div style="flex: 1; min-width: 0;">
 👉 Iteraciones:
+
 - Ajustes en experiencia  
 - Cambios en incentivos  
 - Adaptación a comportamiento local  
+</div>
+</div>
+
+---
+
+![bg contain](./tooling-002.png)
 
 ---
 
 # 3️⃣ Influenciar comportamiento
 
-## No manipulamos  
-## Diseñamos sistemas
+![bg right:45%](./012.jpg)
+
+## No manipulamos <br/> Diseñamos sistemas
 
 ---
 
 # 5 palancas de influencia
 
-### 1. Fricción: Reducir o aumentar estratégicamente
-### 2. Incentivos: Económicos o simbólicos
-### 3. Defaults: Lo automático define comportamiento
-### 4. Feedback loops: Inmediatez de respuesta
-### 5. Prueba social: Lo que otros hacen importa
+| **Palanca** | **Descripción** |
+| :--- | :--- |
+| **Fricción** | Reducir o aumentar estratégicamente |
+| **Incentivos** | Económicos o simbólicos |
+| **Defaults** | Lo automático define comportamiento |
+| **Feedback loops** | Inmediatez de respuesta |
+| **Prueba social** | Lo que otros hacen importa |
 
 ---
 
-# Ejemplo real (MELI – Pricing)
+# Ejemplo real (Pricing)
+
+![bg left:45%](./013.jpg)
 
 Problema:
 - Sellers no optimizaban precios
@@ -240,7 +286,9 @@ Cambio en comportamiento sin imponer reglas
 
 ---
 
-# Ejemplo real (MELI – Growth)
+# Ejemplo real (Growth)
+
+![bg right:45%](./014.jpg)
 
 Problema:
 - Sellers no entendían cómo crecer
@@ -257,12 +305,16 @@ Mayor adopción de mejores prácticas
 
 # Consideración clave
 
+![bg left:45%](./015.jpg)
+
 Influencia sin ética  
 destruye confianza y marca
 
 ---
 
 # Conexión con negocio
+
+![bg right:45%](./016.jpg)
 
 Cada decisión impacta:
 
@@ -273,14 +325,9 @@ Cada decisión impacta:
 
 ---
 
-# Insight estratégico
-
-Marketing atrae usuarios  
-Producto diseña comportamientos
-
----
-
 # Cierre
+
+![bg left:45%](./017.jpg)
 
 Si entiendes cómo se comportan  
 tus usuarios en entornos digitales,
@@ -290,13 +337,8 @@ que crecen de forma sostenible.
 
 ---
 
-# Última idea
-
-No construimos features  
-Construimos sistemas de comportamiento
-
----
-
 # Gracias
 
-Preguntas
+![bg](./018.jpg)
+
+Preguntas?
