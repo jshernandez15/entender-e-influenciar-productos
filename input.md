@@ -37,7 +37,7 @@ section::after {
 
 ![bg right:45%](./img/001.jpg)
 
-**Juan Hernández-Serrato**  
+**Juan Hernández-Serrato**
 Technology & Product Leader
 
 ---
