@@ -35,7 +35,7 @@ section::after {
 # Entender e influenciar  
 ## Cambiando el comportamiento <br/> en productos digitales
 
-![bg right:45%](./001.jpg)
+![bg right:45%](./img/001.jpg)
 
 **Juan Hernández-Serrato**  
 Technology & Product Leader
@@ -44,7 +44,7 @@ Technology & Product Leader
 
 # ¿Qué hago en el día a día?
 
-![bg left](./004.png)
+![bg left](./img/004.png)
 
 - Conecto tecnología, negocio y ejecución
 - Lidero equipos de producto (LatAm + China)  
@@ -55,7 +55,7 @@ Technology & Product Leader
 
 # Pregunta inicial
 
-![bg right:45%](./002.png)
+![bg right:45%](./img/002.png)
 
 ¿Cuántos han usado una app  
 que prometía mucho…  
@@ -65,7 +65,7 @@ y la abandonaron en menos de una semana?
 
 # Tesis
 
-![bg left:45%](./003.jpg)
+![bg left:45%](./img/003.jpg)
 
 El éxito de un producto digital  
 no depende solo de entender al usuario,
@@ -77,7 +77,7 @@ que influyan su comportamiento.
 
 # 1️⃣ Antes de construir
 
-![bg right:45%](./006.jpg)
+![bg right:45%](./img/006.jpg)
 
 ## Lo que creemos del usuario vs la realidad
 
@@ -89,7 +89,7 @@ que influyan su comportamiento.
 
 # Ejemplo real (Vendedores)
 
-![bg left:45%](./005.jpg)
+![bg left:45%](./img/005.jpg)
 
 Vendedores dicen:  
 “Quiero vender más”
@@ -105,20 +105,20 @@ Pero en la práctica:
 
 # Insight clave
 
-![bg right:45%](./007.jpg)
+![bg right:45%](./img/007.jpg)
 
 No diseñamos para lo que el usuario dice.  
 Diseñamos para cómo se comporta.
 
 ---
 
-![bg contain](./tooling-001.png)
+![bg contain](./img/tooling-001.png)
 
 ---
 
 # 2️⃣ Durante la operación
 
-![bg right:45%](./008.jpg)
+![bg right:45%](./img/008.jpg)
 
 
 ## El producto empieza realmente aquí
@@ -127,7 +127,7 @@ Diseñamos para cómo se comporta.
 
 # El funnel no es un funnel
 
-![bg contain left:45%](./009.png)
+![bg contain left:45%](./img/009.png)
 
 No es:
 - Adquisición
@@ -172,7 +172,7 @@ Resultado:
 
 # Métricas que importan
 
-![bg right:45%](./010.jpg)
+![bg right:45%](./img/010.jpg)
 
 - Revenue ($$)
 - Activación (Time to Aha!)
@@ -210,7 +210,7 @@ y conversión
 
 # Mentalidad clave
 
-![bg left:45%](./011.jpg)
+![bg left:45%](./img/011.jpg)
 
 ## Continuous Beta
 
@@ -245,13 +245,13 @@ Realidad:
 
 ---
 
-![bg contain](./tooling-002.png)
+![bg contain](./img/tooling-002.png)
 
 ---
 
 # 3️⃣ Influenciar comportamiento
 
-![bg right:45%](./012.jpg)
+![bg right:45%](./img/012.jpg)
 
 ## No manipulamos <br/> Diseñamos sistemas
 
@@ -271,7 +271,7 @@ Realidad:
 
 # Ejemplo real (Pricing)
 
-![bg left:45%](./013.jpg)
+![bg left:45%](./img/013.jpg)
 
 Problema:
 - Sellers no optimizaban precios
@@ -288,7 +288,7 @@ Cambio en comportamiento sin imponer reglas
 
 # Ejemplo real (Growth)
 
-![bg right:45%](./014.jpg)
+![bg right:45%](./img/014.jpg)
 
 Problema:
 - Sellers no entendían cómo crecer
@@ -305,7 +305,7 @@ Mayor adopción de mejores prácticas
 
 # Consideración clave
 
-![bg left:45%](./015.jpg)
+![bg left:45%](./img/015.jpg)
 
 Influencia sin ética  
 destruye confianza y marca
@@ -314,7 +314,7 @@ destruye confianza y marca
 
 # Conexión con negocio
 
-![bg right:45%](./016.jpg)
+![bg right:45%](./img/016.jpg)
 
 Cada decisión impacta:
 
@@ -327,7 +327,7 @@ Cada decisión impacta:
 
 # Cierre
 
-![bg left:45%](./017.jpg)
+![bg left:45%](./img/017.jpg)
 
 Si entiendes cómo se comportan  
 tus usuarios en entornos digitales,
@@ -339,6 +339,6 @@ que crecen de forma sostenible.
 
 # Gracias
 
-![bg](./018.jpg)
+![bg](./img/018.jpg)
 
 Preguntas?
